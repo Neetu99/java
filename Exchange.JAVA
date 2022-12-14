@@ -1,6 +1,6 @@
 // if list has only two nodes in the begnning 
 //head.next = head  ki jo agni node hai uska next agr head ko point kr raha ho
-/*  if(head.next.next == head){
+ if(head.next.next == head){
 // head ko head ki jo next node hai uspe rakh diya or purane wale 
 // head ko return kr diya
      head = head.next;
@@ -23,4 +23,4 @@
   
   head = head.next;
 return head;
-}*/
+}

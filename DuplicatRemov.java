@@ -1,8 +1,8 @@
-// import java.util.HashSet;
+import java.util.HashSet;
 
-// public class DuplicatRemov {
-    // public static void main(String [] args){
-     /*  int []nums = {0,0,1,1,1,1,2,2,2,3,3,4};  
+public class DuplicatRemov {
+    public static void main(String [] args){
+       int []nums = {0,0,1,1,1,1,2,2,2,3,3,4};  
         int []temp= new int[nums.length];
         int x=0;
         for(int i =0; i< nums.length-1; i++){
@@ -13,9 +13,11 @@
         
         }
         
-        for(int j=0; j<){
+        for(int j=0; j< nums.length-1; j++){
             System.out.print(i+" ");
-        } */
+        } 
+    }
+}
         
 
     

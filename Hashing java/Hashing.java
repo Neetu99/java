@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Iterator;
 // import javax.sound.sampled.SourceDataLine;
-public class Hashing {
+public class Hashing{
      public static void main(String []args){
         HashSet<Integer> om = new HashSet<>();
     //   insertion
@@ -43,8 +43,6 @@ public class Hashing {
      Iterator it = om.iterator();
      while(it.hasNext()){
         System.out.println(it.next());
-     } 
-     
-    
+     }    
 }
 }
